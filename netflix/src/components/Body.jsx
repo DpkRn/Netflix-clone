@@ -83,7 +83,7 @@ const Body = () => {
         ),
       },
     ]);
-    if(isLoading===true) return <h1>Loading...</h1>
+    if(isLoading===true) return <h1>Loading...please wait</h1>
 
   return (
     <div>
